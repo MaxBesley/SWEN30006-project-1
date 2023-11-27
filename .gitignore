@@ -1,0 +1,21 @@
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+.DS_Store
+out/
+dist/
+Log.txt
+
+# *.iml
+# *.ipr
+
+.idea/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
